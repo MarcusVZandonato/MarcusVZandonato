@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Estou cursando Engenharia de Software, atualmente no segundo período da faculdade. Tenho estudado linguagens como Java,  MySQL, JavaScript, HTML, CSS e C, sempre buscando aprimorar minhas habilidades. Sou fascinado por tecnologia e desenvolvimento de software, e estou constantemente explorando novas áreas e desafios que possam me ajudar a crescer como profissional.</h3>
+<h1 align="left">Estou cursando Engenharia de Software, atualmente no segundo período da faculdade. Tenho estudado linguagens como Java,  MySQL, JavaScript, HTML, CSS e C, sempre buscando aprimorar minhas habilidades. Sou fascinado por tecnologia e desenvolvimento de software, e estou constantemente explorando novas áreas e desafios que possam me ajudar a crescer como profissional.</h1>
 
 ###
 
@@ -50,5 +50,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=mviniciuszand31@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/MarcusVZandonato/MarcusVZandonato/output/snake.svg" alt="Snake animation" />
 
 ###
