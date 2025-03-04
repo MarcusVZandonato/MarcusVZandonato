@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Estou cursando Engenharia de Software, atualmente no segundo período da faculdade. Tenho estudado linguagens como Java,  MySQL, JavaScript, HTML, CSS e C, sempre buscando aprimorar minhas habilidades. Sou fascinado por tecnologia e desenvolvimento de software, e estou constantemente explorando novas áreas e desafios que possam me ajudar a crescer como profissional.</h3>
+<h3 align="left">Estou cursando Engenharia de Software, atualmente no terceiro período da faculdade. Tenho estudado linguagens como Java,  MySQL, JavaScript, HTML, CSS e C, sempre buscando aprimorar minhas habilidades. Sou fascinado por tecnologia e desenvolvimento de software, e estou constantemente explorando novas áreas e desafios que possam me ajudar a crescer como profissional.</h3>
 
 ###
 
