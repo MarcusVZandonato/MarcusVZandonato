@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#060270&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#0329FF&height=120&section=header"/>
 <h2 align="left">Sobre Mim</h2>
 
 ###
